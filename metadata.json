@@ -1,0 +1,5 @@
+{
+  "name": "Valet Parking Assistant",
+  "description": "A modern web application for valet parking registration. Customers can register their vehicle, track its status, view assigned driver details, and request their car. Valets can view parked cars, receive notifications for car requests, and provide estimated retrieval times.",
+  "requestFramePermissions": []
+}
